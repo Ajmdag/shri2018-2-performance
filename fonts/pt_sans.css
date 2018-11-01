@@ -1,4 +1,6 @@
+
 @font-face {
 	font-family: 'PT Sans Narrow';
-	src: local('PT Sans Narrow'), url('PTN57F_W.woff') format('woff');
+	font-weight: bold;
+	src: local('PT Sans Narrow Bold'), url('PTN77F_W.woff') format('woff');
 }
