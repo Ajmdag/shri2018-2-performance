@@ -308,7 +308,7 @@ img {
   width: 108px;
   height: 27px;
   position: relative;
-  background-image: url("./assets/logo.png");
+  background-image: url("./assets/logo.svg");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: cover;
@@ -599,7 +599,7 @@ html {
   padding-right: 31px;
 }
 .weather__item_cloud-drizzle {
-  background: url("assets/cloud-drizzle.png") 100% 70%/26px no-repeat;
+  background: url("assets/cloud-drizzle.svg") 100% 70%/26px no-repeat;
 }
 .stats {
   opacity: 0;
